@@ -1,0 +1,6 @@
+Exploring the use of EC2-userdata scripts and the types, files can be used to provide the startup scripts to the vm, to run before starting the vm
+
+
+AWS documentation: link 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
+
